@@ -8,7 +8,7 @@
 <div class="container">
 
   <div class="jumbotron">
-    <h1 class="display-4">Web Developer/h1>
+    <h1 class="display-4">Web Developer</h1>
     <p class="lead">Full Stack Developer | Building Frontend to backend Seemless User Experince</p>
   </div>
 
