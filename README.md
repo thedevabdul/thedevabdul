@@ -21,8 +21,12 @@
         <li>HTML/CSS</li> 
          <li>Bootstrap</li>
         <li>JavaScript</li>
-        <li>SQL</li
+        <li>SQL</li>
         <li>LARAVEL</li>
+        <li>Wordpress Development</li>
+        <li>SEO</li>
+        <li>Adobe Photoshop</li>
+        <li>Adobe Ilustrator</li>
       </ul>
     </div>
   </div>
