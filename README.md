@@ -15,7 +15,7 @@
   <div class="row">
     <div class="col-md-8">
       <h2>About Me</h2>
-      <p>A Full Stack Developer With The Knowledge Of SEO | Graphoc Designing</p>
+      <p>A Full Stack Developer With The Knowledge Of SEO | Graphic Designing</p>
       <h2>Skills</h2>
       <ul>
         <li>HTML/CSS</li> 
