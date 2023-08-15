@@ -8,8 +8,8 @@
 <div class="container">
 
   <div class="jumbotron">
-    <h1 class="display-4">My Name</h1>
-    <p class="lead">Software Engineer | Web Developer | Data Analyst</p>
+    <h1 class="display-4">Software Engineer | Web Developer | Data Analyst</h1>
+    <p class="lead"></p>
   </div>
 
   <div class="row">
@@ -21,15 +21,6 @@
         <li>HTML/CSS</li> 
         <li>JavaScript</li>
         <li>Python</li>
-      </ul>
-    </div>
-
-    <div class="col-md-4">
-      <h2>Connect</h2>
-      <ul class="social">
-        <li><a href="#"><i class="fab fa-github"></i></a></li>
-        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-        <li><a href="#"><i class="fab fa-linkedin"></i></a></li>  
       </ul>
     </div>
   </div>
